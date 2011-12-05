@@ -1,6 +1,9 @@
 ---
 layout: inner-child
 title: O curso de graduação
+boxes:
+ - sobre-a-graduacao
+ - carreira
 ---
 
 ## 1º Periodo

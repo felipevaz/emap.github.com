@@ -1,6 +1,10 @@
 ---
 layout: inner-child
 title: Carreira em matemática aplicada
+section: graduation
+boxes:
+ - disciplinas
+ - sobre-a-graduacao
 ---
 
 ## Finanças e Produtos Financeiros

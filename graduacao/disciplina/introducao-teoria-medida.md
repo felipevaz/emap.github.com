@@ -1,6 +1,9 @@
 ---
 layout: disciplina
 title: Introdução à Teoria da Medida
+section: graduation
+boxes: 
+ - disciplinas
 ---
 
 - Carga horária: 60 horas (4 aulas semanais)

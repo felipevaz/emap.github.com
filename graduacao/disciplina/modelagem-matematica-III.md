@@ -1,6 +1,9 @@
 ---
 layout: disciplina
 title: Modelagem Matemática III - Sistemas Lineares e Otimização
+section: graduation
+boxes: 
+ - disciplinas
 ---
 
 - Carga horária: 60 horas (4 aulas semanais)

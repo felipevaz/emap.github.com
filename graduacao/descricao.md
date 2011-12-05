@@ -2,6 +2,9 @@
 layout: inner
 title: Graduação
 section: graduation
+boxes:
+ - disciplinas
+ - carreira
 ---
 
 ## Graduação em Matemática Aplicada

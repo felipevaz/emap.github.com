@@ -1,6 +1,9 @@
 ---
 layout: disciplina
 title: Álgebra linear
+section: graduation
+boxes: 
+ - disciplinas
 ---
 
 - Carga horária: 90 horas (6 aulas semanais) 

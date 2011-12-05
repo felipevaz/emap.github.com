@@ -1,6 +1,9 @@
 ---
 layout: disciplina
 title: Análise
+section: graduation
+boxes: 
+ - disciplinas
 ---
 
 - Carga horária: 60 horas (4 aulas semnais)

@@ -1,6 +1,9 @@
 ---
 layout: disciplina
 title: Economia e Temas Atuais
+section: graduation
+boxes: 
+ - disciplinas
 ---
 
 - Carga horária: 60 horas (4 aulas semanais)

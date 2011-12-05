@@ -1,6 +1,9 @@
 ---
 layout: disciplina
 title: Geometria Analítica e vetores
+section: graduation
+boxes: 
+ - disciplinas
 ---
 
 - Carga horária: 90 horas (6 aulas semanais) 

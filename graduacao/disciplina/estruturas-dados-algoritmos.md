@@ -1,6 +1,9 @@
 ---
 layout: disciplina
 title: Estruturas de Dados e Algoritmos
+section: graduation
+boxes: 
+ - disciplinas
 ---
 
 - Carga horária: 60 horas (4 aulas semanais)
