@@ -2,6 +2,7 @@
 layout: seminar
 title: Projetos de Inovação em Automação, Energia Solar, RFID, e Data Science
 tag: seminars
+section: seminars
 ---
 
 - Quem: Dan Reznik

@@ -3,6 +3,7 @@ layout: seminar
 title: "A Bayesian Framework for Parameter Estimation in Dynamical Models"
 tag: seminars
 quem: Flávio Codeço Coelho  
+section: seminars
 ---
 
 - Quem:  {{ page.quem }}

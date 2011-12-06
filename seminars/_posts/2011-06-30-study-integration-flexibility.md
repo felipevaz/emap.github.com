@@ -3,6 +3,7 @@ layout: seminar
 title: "Study of integration of flexibility and robustness to optimization methods"
 tag: seminars
 quem: Eduardo Laber  
+section: seminars
 ---
 
 - Quem:  {{ page.quem }}

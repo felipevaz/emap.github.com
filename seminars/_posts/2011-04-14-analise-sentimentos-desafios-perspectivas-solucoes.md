@@ -3,6 +3,7 @@ layout: seminar
 title: "Análise de sentimentos: desafios, perspectivas e soluções"
 tag: seminars
 quem: Leonardo Falcão Koblitz  
+section: seminars
 ---
 
 - Quem:  {{ page.quem }}

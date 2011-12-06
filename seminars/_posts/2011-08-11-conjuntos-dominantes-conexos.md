@@ -3,6 +3,7 @@ layout: seminar
 title: "Conjuntos Dominantes Conexos: Formulações, Generalizações, Algoritmos de Solução e Aplicações" 
 tag: seminars
 quem: Abilio Lucena
+section: seminars
 ---
 
 - Quem:  {{ page.quem }}

@@ -3,6 +3,7 @@ layout: seminar
 title: "Modelos dinâmicos e ações para reduzir o espalhamento da malária" 
 tag: seminars
 quem: Luiz Bevilacqua
+section: seminars
 ---
 
 - Quem:  {{ page.quem }}

@@ -3,6 +3,7 @@ layout: seminar
 title: "Comunicando por meio de uma sintaxe elementar"
 tag: seminars
 quem: Edgardo Brigatti 
+section: seminars
 ---
 
 - Quem:  {{ page.quem }}

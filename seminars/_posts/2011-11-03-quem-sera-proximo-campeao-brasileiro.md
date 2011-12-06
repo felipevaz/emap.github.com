@@ -4,6 +4,7 @@ title: Quem será o próximo campeão brasileiro? Modelos matemáticos para prev
 tag: seminars
 quem: Paulo Cezar Pinto Carvalho
 onde: FGV 
+section: seminars
 ---
 
 - Quem:  {{ page.quem }}

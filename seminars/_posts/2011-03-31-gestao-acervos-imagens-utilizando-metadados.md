@@ -3,6 +3,7 @@ layout: seminar
 title: "Gestão de acervos de imagens utilizando metadados" 
 tag: seminars
 quem: Marcio Isensee 
+section: seminars
 ---
 
 - Quem:  {{ page.quem }}

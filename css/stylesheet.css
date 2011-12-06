@@ -120,7 +120,7 @@ font-size: 13px;
 font-family: 'ZurichBold';
 text-transform: uppercase;
 position: relative;
-	text-shadow: 1px 1px rgba(0, 0, 0, 0.6);
+text-shadow: 1px 1px rgba(0, 0, 0, 0.6);
 }
 #menu ul li:first-child:hover a,
 #menu ul li:first-child a:hover {
@@ -464,16 +464,12 @@ margin: 0 10px;
 padding: 0 0 1px 0;
 }
 
-#leftstrip1 .pagination ul li a:hover {
-}
 
-.spacer1 {
-}
 #rightstrip1 {
 width: 220px;
 float: right;
 color: #333333;
-	margin: 55px 0 0 0;
+margin: 55px 0 0 0;
 }
 #rightstrip1 h3 {
 color: #666666;
@@ -501,6 +497,7 @@ background: url(/images/block4-1.gif) no-repeat left top #1f5f7b;
 }
 #rightstrip1 .block4-2 {
 background: url(/images/block4-2.gif) no-repeat left top #4e818e;
+	text-shadow: ;
 }
 #rightstrip1 .block4 a {
 width: 137px;
@@ -508,7 +505,7 @@ height: 89px;
 float: left;
 padding: 17px 15px 0 68px;
 font-size: 19px;
-color: #ffffff;
+color: #FFFFFF;
 }
 #rightstrip1 .block4 a:hover {
 color: #dddddd;
@@ -519,9 +516,7 @@ display: block;
 font-size: 15px;
 font-family: 'ZurichBold', Helvetica, Arial, sans-serif;
 background: url(/images/arrow-1.gif) no-repeat left 6px;
-	padding: 0 0 0 22px;
-}
-#rightstrip1 .link3:hover {
+padding: 0 0 0 22px;
 }
 #rightstrip1 .map {
 border: 1px solid #8a8a8a;
@@ -657,10 +652,7 @@ display: block;
 border-left: 4px #d6d6d6 solid;
 font-family: Arial, Helvetica, sans-serif;
 }
-#post_full ul {
-float: none;
-margin: 0 0 20px 20px;
-}
+
 #post_full li {
 float: none;
 font-size: 15px;
@@ -793,3 +785,39 @@ div.person_info {
 .index-seminars #rightstrip1 {
 	margin: 0px 0 0;
 }
+
+.seminars #leftstrip1 h2 {
+	font-size: 24px;
+}
+
+.seminars #leftstrip1 h3 {
+	color: #666666;
+	font-family: 'ZurichBold', Helvetica, Arial, sans-serif;
+	border: 0;
+	padding: 0;
+	margin: 0;
+	font-size: 16px;
+	line-height: 16px;
+	background: none;
+
+}
+
+.seminar #leftstrip1 h3 {
+	color: #000000;
+}
+
+.seminars #leftstrip1 h2 span.data {
+	color: #999999;
+	font-family: Helvetica, Arial, sans-serif;
+	font-size: 14px;
+	line-height: 100%;
+}
+
+.inner-child.seminars #leftstrip1 h1 {
+	margin: 0;
+}
+
+.inner-child.seminars .pagination {
+	margin: 0 0 20px;
+} 
+

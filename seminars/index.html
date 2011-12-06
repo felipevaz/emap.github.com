@@ -13,9 +13,9 @@ convidados ou dos professores e alunos da própria EMAp.</p>
 
 {% for post in paginator.posts %}
 <div class="post">
-  <h2><a href="{{ post.url }}"> {{ post.title }} </a></h2>
-  <h3>{{ post.quem }}</h3>
-  <p class="text-type1"> {{ post.date | date_to_long_string }} <a href="{{ post.url }}" class="mais">mais informações</a></p>
+  <h2><a href="{{ post.url }}">{{ post.title }}</a>&nbsp;<span class="data">{{ post.date | date_to_string }}</span></h2>
+  <h3>{{ post.quem }} </h3>
+  <p><a href="{{ post.url }}" class="mais">mais informações</a></p>
 </div>
 {% endfor %}
 

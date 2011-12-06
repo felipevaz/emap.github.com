@@ -4,6 +4,7 @@ title: "Um modelo matemático para a disseminação da Wolbachia em mosquitos"
 tag: seminars
 quem: Moacyr Alvim Horta Barbosa da Silva  
 onde: FGV (sala 317)
+section: seminars
 ---
 
 - Quem:  {{ page.quem }}
