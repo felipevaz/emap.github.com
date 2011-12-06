@@ -3,6 +3,9 @@ layout: disciplina
 title: Representação do Conhecimento e Linguagens Formais
 area: Matemática da Informação
 creditos: 3
+section: post-graduation
+boxes:
+ - disciplinas-pos-graduacao
 ---
 
 - Área: {{ page.title }}

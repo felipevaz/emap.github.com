@@ -1,6 +1,12 @@
 ---
 layout: inner-child
 title: Disciplinas do Mestrado
+section: post-graduation
+boxes:
+ - sobre-a-pos-graduacao
+ - linhas-de-pesquisa
+ - perfil-egressos
+ - processo-de-selecao
 ---
 
 - [Álgebra Linear e Aplicações](disciplina/algebra-linear-aplicacoes.html)

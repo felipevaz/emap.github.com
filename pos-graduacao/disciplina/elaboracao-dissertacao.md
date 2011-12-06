@@ -3,6 +3,9 @@ layout: disciplina
 title: Elaboração de Dissertação
 creditos: 0
 area: Metodologia de Pesquisa
+section: post-graduation
+boxes:
+ - disciplinas-pos-graduacao
 ---
 
 - Área: {{ page.area }}     

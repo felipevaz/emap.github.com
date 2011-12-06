@@ -3,6 +3,9 @@ layout: disciplina
 title: Tópicos avançados em Inteligência Artificial
 creditos: 3
 area: Mátematica da informação
+section: post-graduation
+boxes:
+ - disciplinas-pos-graduacao
 ---
 
 - Área: {{ page.area }}     

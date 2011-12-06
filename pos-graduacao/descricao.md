@@ -2,6 +2,11 @@
 layout: inner
 title: Mestrado
 section: post-graduation
+boxes:
+ - linhas-de-pesquisa
+ - perfil-egressos
+ - processo-de-selecao
+ - disciplinas-pos-graduacao
 ---
 
 ## Mestrado em Modelagem Matemática da Informação

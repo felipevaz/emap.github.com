@@ -3,6 +3,9 @@ layout: disciplina
 title: Construção e Avaliação de Ontologias
 creditos: 3
 area: Matemática da Informação
+section: post-graduation
+boxes:
+ - disciplinas-pos-graduacao
 ---
 
 - Área:  {{ page.area }}

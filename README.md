@@ -55,7 +55,7 @@ This is the source of EMAp website.
 - logos da EMAP nas entradas do facebook, twitter etc. Ficou
   cansativo. Dá para mudar o facebook? O que seria melhor?
 
-- menu de contexto para seções 
+- menu de contexto para seções: feito em sobre a emap, graduacao, mestrado 
 
 - limpar arquivos desnecessarios (imagens, fontes etc)
 
@@ -67,9 +67,6 @@ This is the source of EMAp website.
 
 - usar a logo invertida no twitter (branco sobre fundo azul) pra
   reduzir um pouco mais a repetição
-
-- a pagina inicial de equipe não deveria ter um layout com banner? Não
-  é nível 1? Acho importante o padrão
   
 - post de blog e seminario tem logo abaixo do titulo data e nome. Acho
   que pode confundir... No caso do post, o nome é de quem postou a

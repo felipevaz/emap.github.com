@@ -3,6 +3,9 @@ layout: disciplina
 title: Estruturas de Dados e Algoritmos
 creditos: 3
 area: Ciência da Computação
+section: post-graduation
+boxes:
+ - disciplinas-pos-graduacao
 ---
 
 - Área: {{ page.area }} 

@@ -3,6 +3,9 @@ layout: disciplina
 title: Teoria dos Jogos e Modelos Socioeconômicos
 area:  Matemática Geral
 creditos: 3
+section: post-graduation
+boxes:
+ - disciplinas-pos-graduacao
 ---
 
 - Área:  {{ page.area }}

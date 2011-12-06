@@ -1,6 +1,12 @@
 ---
 layout: inner-child
 title: Linhas de Pesquisa da Pós-Graduação
+section: post-graduation
+boxes:
+ - sobre-a-pos-graduacao
+ - perfil-egressos
+ - processo-de-selecao
+ - disciplinas-pos-graduacao
 ---
 
 O Curso de Mestrado Acadêmico em Modelagem Matemática da Informação,

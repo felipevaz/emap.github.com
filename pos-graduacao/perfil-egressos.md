@@ -1,6 +1,12 @@
 ---
 layout: inner-child
 title: Perfil dos Egressos
+section: post-graduation
+boxes:
+ - sobre-a-pos-graduacao
+ - linhas-de-pesquisa
+ - processo-de-selecao
+ - disciplinas-pos-graduacao
 ---
 
 O crescimento acelerado da capacidade monitoração de sistemas naturais

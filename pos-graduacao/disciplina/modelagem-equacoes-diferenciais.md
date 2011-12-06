@@ -3,6 +3,9 @@ layout: disciplina
 title: Modelagem com Equações Diferenciais
 area: Matemática Geral
 creditos: 3
+section: post-graduation
+boxes:
+ - disciplinas-pos-graduacao
 ---
 
 - Área: {{ page.area }}

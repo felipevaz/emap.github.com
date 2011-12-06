@@ -3,6 +3,9 @@ layout: disciplina
 title: Visualização de informação
 area: Matemática da Informação
 creditos: 3
+section: post-graduation
+boxes:
+ - disciplinas-pos-graduacao
 ---
 
 - Área: {{ page.area }}

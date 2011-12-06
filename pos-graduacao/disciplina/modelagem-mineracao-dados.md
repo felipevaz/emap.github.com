@@ -3,6 +3,9 @@ layout: disciplina
 title: Modelagem e Mineração de Dados
 area: Ciência da Computação
 creditos: 3
+section: post-graduation
+boxes:
+ - disciplinas-pos-graduacao
 ---
 
 - Área:  {{ page.area }}

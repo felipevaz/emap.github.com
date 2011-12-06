@@ -3,6 +3,9 @@ layout: disciplina
 title: Álgebra Linear e Aplicações
 creditos: 3
 area: Matemática Geral
+section: post-graduation
+boxes:
+ - disciplinas-pos-graduacao
 ---
 
 - Área: {{ page.area }}   

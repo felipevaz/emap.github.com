@@ -1,6 +1,12 @@
 ---
 layout: inner-child
 title: Processo Seletivo do Mestrado
+section: post-graduation
+boxes:
+ - sobre-a-pos-graduacao
+ - linhas-de-pesquisa
+ - perfil-egressos
+ - disciplinas-pos-graduacao
 ---
 
 As inscrições para a turma de 2012 do Mestrado em Modelagem Matemática

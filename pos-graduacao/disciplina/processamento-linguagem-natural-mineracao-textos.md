@@ -3,6 +3,9 @@ layout: disciplina
 title: Processamento de Linguagem Natural e Mineração de Textos
 creditos: 3
 area: Mátematica da informação
+section: post-graduation
+boxes:
+ - disciplinas-pos-graduacao
 ---
 
 - Área: {{ page.area }}     

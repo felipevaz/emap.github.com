@@ -3,6 +3,9 @@ layout: disciplina
 title: Grafos, Redes sociais e Conectividade
 area:  Matemática da Imformação
 creditos: 3
+section: post-graduation
+boxes:
+ - disciplinas-pos-graduacao
 ---
 
 - Área: {{ page.area }}

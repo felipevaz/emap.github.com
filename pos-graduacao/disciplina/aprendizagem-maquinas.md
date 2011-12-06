@@ -3,6 +3,9 @@ layout: disciplina
 title: Aprendizagem por Máquinas
 creditos: 3
 area: Matemática da Informação
+section: post-graduation
+boxes:
+ - disciplinas-pos-graduacao
 ---
 
 - Área: {{ page.area }}

@@ -3,6 +3,9 @@ layout: disciplina
 title: Metodologia Científica
 creditos: 1
 area: Metodologia de Pesquisa
+section: post-graduation
+boxes:
+ - disciplinas-pos-graduacao
 ---
 
 - Área: {{ page.area }}     
